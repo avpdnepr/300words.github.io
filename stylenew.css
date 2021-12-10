@@ -1,0 +1,426 @@
+#headeres {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headeres .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headeres .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headeres ul {
+		list-style-type: none
+	}
+		#headeres ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headeres ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headeres ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headeres h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headeres h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logoes.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headeres ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headeres ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headeres ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headeres ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headeres ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+
+
+#headerfr {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headerfr .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headerfr .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headerfr ul {
+		list-style-type: none
+	}
+		#headerfr ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headerfr ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headerfr ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headerfr h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headerfr h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logofr.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headerfr ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headerfr ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headerfr ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headerfr ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headerfr ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+
+
+	#headerit {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headerit .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headerit .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headerit ul {
+		list-style-type: none
+	}
+		#headerit ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headerit ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headerit ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headerit h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headerit h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logoit.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headerit ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headerit ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headerit ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headerit ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headerit ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+
+	#headeren {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headeren .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headeren .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headeren ul {
+		list-style-type: none
+	}
+		#headeren ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headeren ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headeren ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headeren h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headeren h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logoen.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+		#headerenfr h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logofr.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headeren ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headeren ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headeren ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headeren ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headeren ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+
+	#headerge {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headerge .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headerge .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headerge ul {
+		list-style-type: none
+	}
+		#headerge ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headerge ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headerge ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headerge h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headerge h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logoge.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+		#headergefr h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logofr.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headerge ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headerge ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headerge ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headerge ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headerge ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+
+
+
+	#headerindex {
+	background: url(headtile.gif) repeat-x 0 0;
+	margin-bottom: 0px;
+}
+	#headerindex .buffer {
+		background: url(headleft.gif) no-repeat 0 0;
+	}
+	#headerindex .buffer .buffer {
+		height: 176px;
+		background: url(headright.gif) no-repeat top right;
+		padding-top: 0px;
+	}
+	#headerindex ul {
+		list-style-type: none
+	}
+		#headerindex ul li {
+			float: left;
+			font-size: 0.9em;
+		}
+		#headerindex ul li a {
+			display: block;
+			color: #727272;
+			text-transform: uppercase;
+			padding: 10px 10px;
+		}
+		#headerindex ul li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
+	#headerindex h4 {
+		clear: both;
+		float: left;
+		padding: 1px 0 8px 1px;
+	}
+		#headerindex h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logo1.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+		#headerindexfr h4 a {
+			display: block;
+			width: 1200px; height: 109px;
+			background: url(logofr.jpg) no-repeat 0 0;
+			text-indent: -9999px;
+			outline: none;
+		}
+
+	#headerindex ol {
+		clear: both;
+		list-style-type: none
+	}
+		#headerindex ol li {
+			float: left;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			padding-left: 1px;
+			background: url(divider.gif) no-repeat 0 0;
+		}
+			#headerindex ol li.f {
+				padding-left: 0;
+				background: none;
+			}
+		#headerindex ol li a {
+			color: #727272;
+			display: block;
+			padding: 5px 10px 1px;
+		}
+		#headerindex ol li a:hover {
+			color: #6495ed;
+			text-decoration: none;
+		}
